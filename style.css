@@ -1,0 +1,9 @@
+#mapHarita{
+    position: fixed;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+
+}
